@@ -7,6 +7,7 @@ layout: default
 
 # Bismil Drink Store
 Welcome to my project...
+https://reck07.github.io/bismil-shop/
 
 A modern, responsive coffee-themed landing page built using **HTML5** and **CSS3**.
 This project demonstrates clean UI design, structured layout implementation, and responsive styling suitable for cafés, coffee brands, or product showcase pages.
